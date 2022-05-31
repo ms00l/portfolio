@@ -156,7 +156,7 @@ function App() {
 			</ScrollPage>
 			<ScrollPage page={14}>
 				<Animator animation={ani}>
-					<h1>Contact Me</h1>
+					<h1>Contact Me And Resume</h1>
 					<a
 						href='https://www.linkedin.com/in/moemoemoemoe/'
 						target='_blank'
