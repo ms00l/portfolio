@@ -42,7 +42,18 @@ function App() {
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={4}>
-				<Animator animation={ani}></Animator>
+				<Animator animation={ani}>
+					<h1>About Me</h1>
+					<h6>
+						Hi! I'm Moe. I am passionate about learning about web development
+						and implementing what I’ve learned in fun ways. I recently switched
+						to software development because of my love for games and technology.
+						I strive to one day develop my skills in better methods every day.
+						As a developer with a background in logistics and graphic design, I
+						hope to break out and create software that people love to use on a
+						daily basis.
+					</h6>
+				</Animator>
 			</ScrollPage>
 			<ScrollPage page={5}>
 				<Animator animation={ani}></Animator>
@@ -51,12 +62,12 @@ function App() {
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={7}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={8}>
 				<Animator animation={ani}>
 					<h1>Selected Projects</h1>
 				</Animator>
-			</ScrollPage>
-			<ScrollPage page={8}>
-				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={9}>
 				<Animator animation={ani}></Animator>
@@ -68,12 +79,6 @@ function App() {
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={12}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={13}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={14}>
 				<Animator animation={ani}>
 					<h1>TicTacMoe</h1>
 					<h6>
@@ -100,25 +105,16 @@ function App() {
 					</a>
 				</Animator>
 			</ScrollPage>
+			<ScrollPage page={13}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={14}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
 			<ScrollPage page={15}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={16}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={17}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={18}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={19}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={20}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={21}>
 				<Animator animation={ani}>
 					<h1>ReChat</h1>
 					<h6>
@@ -145,25 +141,16 @@ function App() {
 					</a>
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={22}>
+			<ScrollPage page={17}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={23}>
+			<ScrollPage page={18}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={24}>
+			<ScrollPage page={19}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={25}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={26}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={27}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={28}>
+			<ScrollPage page={20}>
 				<Animator animation={ani}>
 					<h1>Brickbreaker</h1>
 					<h6>
@@ -189,25 +176,16 @@ function App() {
 					</a>
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={29}>
+			<ScrollPage page={21}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={30}>
+			<ScrollPage page={22}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={31}>
+			<ScrollPage page={23}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={32}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={33}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={34}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={35}>
+			<ScrollPage page={24}>
 				<Animator animation={ani}>
 					<h1>Selected Design Works</h1>
 					<img src={man} width='200' height='200' />
@@ -218,57 +196,16 @@ function App() {
 					<img src={sloth} width='200' height='200' />
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={36}>
+			<ScrollPage page={25}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={37}>
+			<ScrollPage page={26}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={38}>
+			<ScrollPage page={27}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={39}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={40}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={41}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={42}>
-				<Animator animation={ani}>
-					<h1>About Me</h1>
-					<h6>
-						Hi! I'm Moe. I am passionate about learning about web development
-						and implementing what I’ve learned in fun ways. I recently switched
-						to software development because of my love for games and technology.
-						I strive to one day develop my skills in better methods every day.
-						As a developer with a background in logistics and graphic design, I
-						hope to break out and create software that people love to use on a
-						daily basis.
-					</h6>
-				</Animator>
-			</ScrollPage>
-			<ScrollPage page={43}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={44}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={45}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={46}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={47}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={48}>
-				<Animator animation={ani}></Animator>
-			</ScrollPage>
-			<ScrollPage page={49}>
+			<ScrollPage page={28}>
 				<Animator animation={ani}>
 					<h1>Contact Me And Resume</h1>
 					<a
