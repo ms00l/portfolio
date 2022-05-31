@@ -149,6 +149,15 @@ function App() {
 			<ScrollPage page={12}>
 				<Animator animation={ani}>
 					<h1>About Me</h1>
+					<h6>
+						Hi! I'm Moe. I am passionate about learning about web development
+						and implementing what I’ve learned in fun ways. I recently switched
+						to software development because of my love for games and technology.
+						I strive to one day develop my skills in better methods every day.
+						As a developer with a background in logistics and graphic design, I
+						hope to break out and create software that people love to use on a
+						daily basis.
+					</h6>
 				</Animator>
 			</ScrollPage>
 			<ScrollPage page={13}>
@@ -175,8 +184,10 @@ function App() {
 							onClick={() => navigator.clipboard.writeText('moemoemoe#3035')}
 						/>
 					</button>
-					<a href='https://docs.google.com/document/d/1vMwS9qTT45nNbLKn6Oxpbmv_4M5KruYoS1ezJKd-RP0/edit?usp=sharing'
-            target='_blank' rel="noreferrer">
+					<a
+						href='https://docs.google.com/document/d/1vMwS9qTT45nNbLKn6Oxpbmv_4M5KruYoS1ezJKd-RP0/edit?usp=sharing'
+						target='_blank'
+						rel='noreferrer'>
 						<SiMicrosoftword className='icons' />
 					</a>
 				</Animator>
