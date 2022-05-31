@@ -36,14 +36,44 @@ function App() {
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={2}>
-				<Animator animation={ani}>
-					<h1>Selected Projects</h1>
-				</Animator>
+				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={3}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
 			<ScrollPage page={4}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={5}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={6}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={7}>
+				<Animator animation={ani}>
+					<h1>Selected Projects</h1>
+				</Animator>
+			</ScrollPage>
+			<ScrollPage page={8}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={9}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={10}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={11}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={12}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={13}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={14}>
 				<Animator animation={ani}>
 					<h1>TicTacMoe</h1>
 					<h6>
@@ -70,10 +100,25 @@ function App() {
 					</a>
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={5}>
+			<ScrollPage page={15}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={6}>
+			<ScrollPage page={16}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={17}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={18}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={19}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={20}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={21}>
 				<Animator animation={ani}>
 					<h1>ReChat</h1>
 					<h6>
@@ -100,10 +145,25 @@ function App() {
 					</a>
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={7}>
+			<ScrollPage page={22}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={8}>
+			<ScrollPage page={23}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={24}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={25}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={26}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={27}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={28}>
 				<Animator animation={ani}>
 					<h1>Brickbreaker</h1>
 					<h6>
@@ -129,10 +189,25 @@ function App() {
 					</a>
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={9}>
+			<ScrollPage page={29}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={10}>
+			<ScrollPage page={30}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={31}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={32}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={33}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={34}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={35}>
 				<Animator animation={ani}>
 					<h1>Selected Design Works</h1>
 					<img src={man} width='200' height='200' />
@@ -143,10 +218,25 @@ function App() {
 					<img src={sloth} width='200' height='200' />
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={11}>
+			<ScrollPage page={36}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={12}>
+			<ScrollPage page={37}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={38}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={39}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={40}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={41}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={42}>
 				<Animator animation={ani}>
 					<h1>About Me</h1>
 					<h6>
@@ -160,10 +250,25 @@ function App() {
 					</h6>
 				</Animator>
 			</ScrollPage>
-			<ScrollPage page={13}>
+			<ScrollPage page={43}>
 				<Animator animation={ani}></Animator>
 			</ScrollPage>
-			<ScrollPage page={14}>
+			<ScrollPage page={44}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={45}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={46}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={47}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={48}>
+				<Animator animation={ani}></Animator>
+			</ScrollPage>
+			<ScrollPage page={49}>
 				<Animator animation={ani}>
 					<h1>Contact Me And Resume</h1>
 					<a
