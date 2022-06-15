@@ -227,7 +227,7 @@ function App() {
 						/>
 					</button>
 					<a
-						href='https://docs.google.com/document/d/1vMwS9qTT45nNbLKn6Oxpbmv_4M5KruYoS1ezJKd-RP0/edit?usp=sharing'
+						href='https://docs.google.com/document/d/1vMwS9qTT45nNbLKn6Oxpbmv_4M5KruYoS1ezJKd-RP0'
 						target='_blank'
 						rel='noreferrer'>
 						<SiMicrosoftword className='icons' />
